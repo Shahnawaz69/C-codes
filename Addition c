@@ -14,3 +14,4 @@ e=a*b
 printf("The Addition of two numbers is:%d",c);
 printf("The difference of two numbers is:%d",d);
 printf('Multiplication is;%d",e);
+}
